@@ -13,7 +13,16 @@ Our project will be done using a sequence of save and commits.
 
 ## First Verse 
 <Put the first two verses of Jabberwocky by Lewis Carrol in this section>
+`Twas brillig, and the slithy toves       
+  Did gyre and gimble in the wabe:      
+All mimsy were the borogoves,       
+  And the mome raths outgrabe.     
 
+"Beware the Jabberwock, my son!     
+  The jaws that bite, the claws that catch!    
+Beware the Jubjub bird, and shun     
+  The frumious Bandersnatch!"     
+  
 ## Second Verse
 <Put the first two verses of The Road Not Taken by Robert Frost here>
 
